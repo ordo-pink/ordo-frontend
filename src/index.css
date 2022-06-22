@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply outline-pink-800 outline-offset-2;
+}

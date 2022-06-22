@@ -1,0 +1,5 @@
+.app {
+  @apply flex flex-row-reverse md:flex-row h-screen w-screen p-2;
+  @apply bg-gradient-to-br from-neutral-100 to-neutral-300;
+  @apply text-neutral-800;
+}

@@ -1,0 +1,20 @@
+{
+  "activities.activity.editor.name": "Editor",
+  "activities.activity.editor.description": "The place to read and write",
+  "activities.activity.graph.name": "Graph",
+  "activities.activity.graph.description": "It sounds a bit like giraffe",
+  "activities.activity.checkboxes.name": "Checkboxes",
+  "activities.activity.checkboxes.description": "A box with checkboxes for you to check",
+  "activities.activity.finder.name": "Find in Files",
+  "activities.activity.finder.description": "Finders gonna find",
+  "activities.activity.folders.name": "Folders",
+  "activities.activity.folders.description": "The way people avoid Desktop mess",
+  "activities.activity.account.name": "Account",
+  "activities.activity.account.description": "No trespassing!",
+  "activities.activity.achievements.name": "Achievements",
+  "activities.activity.achievements.description": "There's so much to be done...",
+  "activities.activity.settings.name": "Settings",
+  "activities.activity.settings.description": "If you set something wrong, just unset it",
+  "settings.language.title": "Language",
+  "settings.language.description": "Wow much internationalisational!"
+}

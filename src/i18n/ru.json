@@ -1,0 +1,20 @@
+{
+  "activities.activity.editor.name": "Редактор",
+  "activities.activity.editor.description": "Тут читают и пишут",
+  "activities.activity.graph.name": "Граф",
+  "activities.activity.graph.description": "Не герцог, и даже не маркиз, но всё равно почётно",
+  "activities.activity.checkboxes.name": "Списки дел",
+  "activities.activity.checkboxes.description": "Всегда приятно видеть, сколько всего уже сделано",
+  "activities.activity.finder.name": "Поиск по файлам",
+  "activities.activity.finder.description": "Искать - не переискать",
+  "activities.activity.folders.name": "Папки",
+  "activities.activity.folders.description": "Клади сюда свою мультифору",
+  "activities.activity.account.name": "Аккаунт",
+  "activities.activity.account.description": "Внимание! Частная собственность!",
+  "activities.activity.achievements.name": "Ачивки",
+  "activities.activity.achievements.description": "Дорогу осилит идущий",
+  "activities.activity.settings.name": "Настройки",
+  "activities.activity.settings.description": "Не все дела стоит делать под себя, но настраивать - стоит",
+  "settings.language.title": "Язык",
+  "settings.language.description": "Находка для шпиона"
+}

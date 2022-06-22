@@ -1,0 +1,7 @@
+.activity {
+  @apply hover:text-cyan-700 transition-colors duration-200;
+}
+
+.activity-current {
+  @apply text-pink-800;
+}

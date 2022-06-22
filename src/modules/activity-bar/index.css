@@ -1,0 +1,7 @@
+.activity-bar {
+  @apply z-40 flex flex-col justify-between text-4xl md:text-2xl;
+}
+
+.activity-bar__section {
+  @apply flex flex-col space-y-2;
+}
